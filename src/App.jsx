@@ -23,6 +23,24 @@ const groceryItems = [
     quantity: 3,
     checked: false,
   },
+  {
+    id: 4,
+    name: "Beras Merah",
+    quantity: 2,
+    checked: false,
+  },
+  {
+    id: 5,
+    name: "Telur",
+    quantity: 14,
+    checked: false,
+  },
+  {
+    id: 6,
+    name: "Potabee",
+    quantity: 4,
+    checked: false,
+  },
 ];
 
 export default function App() {
